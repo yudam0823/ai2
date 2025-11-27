@@ -71,12 +71,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # 예)
     # "짬뽕": {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+    #   "images": ["https://.../jjampong1.jpg", "
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"],"images" :["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"]},
-    labels[1] : {"texts" : ["짜장면은 맛있어"], "images" :["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%259C%25EC%259E%25A5%25EB%25A9%25B4&psig=AOvVaw2m0SIT541bq0EXTNTxrZko&ust=1764309061904000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCJ8snRkZEDFQAAAAAdAAAAABAK "]},
-    labels[2] : {"texts" : ["짱뽕은 맛있어"], "images" :["https://www.google.com/imgres?q=%EC%A7%AC%EB%BD%95&imgurl=https%3A%2F%2Fi.namu.wiki%2Fi%2FupNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp&imgrefurl=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&docid=JECJNLjax1bT-M&tbnid=ja8rCCp2XzfS5M&vet=12ahUKEwjfsdG205GRAxXjkVYBHXCuFEgQM3oECBIQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwjfsdG205GRAxXjkVYBHXCuFEgQM3oECBIQAA"]},
+    labels[1] : {"texts" : ["짜장면은 맛있어"], "images" :["https://minio.nculture.org/amsweb-opt/multimedia_assets/5/13787/20519/c/13787-medium-size.jpg"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" :["https://www.koreadaily.com/article/20240422181844821"]},
     labels[3] : {"texts" : ["탕수육은 맛있어"], "images" :["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"]},
 
 
